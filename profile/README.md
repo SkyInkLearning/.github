@@ -23,15 +23,14 @@ https://github.com/SkyInkLearning/Ventixe_Rules_API
 
 https://github.com/SkyInkLearning/Ventixe_Terms_API
 
-These two are to be used together. I never got so far as to implement their usage in the frontend due to not everyone in the group wanting to put in effort.
-
-https://github.com/SkyInkLearning/Ventixe_Ticket_Gateway_API
-
-https://github.com/SkyInkLearning/Ventixe_Ticket_API
-
 These two are to be used together. I never got so far as to implement their usage in the frontend.
 
 https://github.com/SkyInkLearning/Ventixe_Map_API
 
 https://github.com/SkyInkLearning/Ventixe_Mapimage_Handler_API
 
+These two are also to be used together. I never got so far as to implement their usage in the frontend due to circumstances outside of my choosing.
+
+https://github.com/SkyInkLearning/Ventixe_Ticket_Gateway_API
+
+https://github.com/SkyInkLearning/Ventixe_Ticket_API
