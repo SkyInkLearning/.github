@@ -14,6 +14,10 @@ We are currently doing a devops course where we are going to be learning to use 
 
 ## Repos:
 
+### Yaml code writeup for the DevOps course:
+
+https://github.com/SkyInkLearning/Azure_DevOps_yaml
+
 ### Documentation and API key:
 
 https://github.com/SkyInkLearning/API_Documentation
