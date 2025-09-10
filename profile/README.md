@@ -1,6 +1,8 @@
 ## Hello there 👋
 
-Im going to be using this to store different repos where I can simply return later to refer back to things that I have learned and to collect the things that im building since the feed on the profile on github looks awful after just a couple of repos. Im going to try to write the readmes as well as possible as I find time. 
+Im going to be using this to store different repos where I can simply return later to refer back to things that I have learned and to collect the things that im building since the feed on the profile on github looks awful after just a couple of repos. 
+
+Keep in mind that I jsut got this idea recently so it might looks quite empty for a while. The readme files will be finished as I find time. 
 
 ## Currently working on:
 
