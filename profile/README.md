@@ -25,7 +25,7 @@ https://github.com/SkyInkLearning/Optimizely_Documentation/
 
 https://github.com/SkyInkLearning/Azure_DevOps_yaml
 
-### Fininshed code DevOps course carsimulator:
+### Finished code DevOps course carsimulator:
 
 https://github.com/SkyInkLearning/Azure_DevOps_CarSimulatorApp
 
