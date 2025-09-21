@@ -12,13 +12,22 @@ I am currently working on a simple website where I can share images of stickers 
 
 ### At school:
 
-We are currently doing a devops course where we are going to be learning to use Azure Devops for pipelines and gitflow. We have been given a car simulator where we are going to be finding the problems and fixing them and creating tests while properly using branches and CI/CD.
+We are currently learning about two different CMS systems. Umbraco and Optimizely. We are going to have a group assignment where we have to use one of them in a couple of weeks.
+
+### Optimizely readme:
+
+https://github.com/SkyInkLearning/Optimizely_Documentation/
+
 
 ## Repos:
 
 ### Yaml code writeup for the DevOps course:
 
 https://github.com/SkyInkLearning/Azure_DevOps_yaml
+
+### Fininshed code DevOps course carsimulator:
+
+https://github.com/SkyInkLearning/Azure_DevOps_CarSimulatorApp
 
 ### Documentation and API key:
 
